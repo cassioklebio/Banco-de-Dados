@@ -109,15 +109,4 @@ alter table DEPARTAMENTOS drop column gerente;
 
 
 
-select * from EMPREGADOS;
 
-select * from DEPARTAMENTOS;
-
-select * from PROJETOS;
-
-select * from ALOCACAO;
-
-select * from ENDERECOS;
-
-select * from CARGOS;
- 
