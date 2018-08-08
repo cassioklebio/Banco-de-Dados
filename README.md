@@ -55,6 +55,8 @@ Este Repositorio foi criado para o armazenamento das atividades da disciplina *B
 ### vendas.sql
 **Finalidade:** Atividade de criação do SQL utilizando o *On delete*.
 
+#
+
 **Professor:** Adriano Santos.
 
 **Aluno:** Cássio Klebio.
